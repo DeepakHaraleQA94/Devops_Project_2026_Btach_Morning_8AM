@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-19T08:46:23 IST" name="Suite" finished-at="2026-01-19T08:47:06 IST" duration-ms="43063">
+    <groups>
+    </groups>
+    <test started-at="2026-01-19T08:46:23 IST" name="Test" finished-at="2026-01-19T08:47:06 IST" duration-ms="43063">
+      <class name="AutomateWebApp.validateYessPage">
+        <test-method signature="validateAboutPage()[pri:0, instance:AutomateWebApp.validateYessPage@161479c6]" started-at="2026-01-19T08:46:23 IST" name="validateAboutPage" finished-at="2026-01-19T08:46:42 IST" duration-ms="18764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutPage -->
+      </class> <!-- AutomateWebApp.validateYessPage -->
+      <class name="AutomateWebApp.validateHomePage">
+        <test-method signature="validateHomePage()[pri:0, instance:AutomateWebApp.validateHomePage@670002]" started-at="2026-01-19T08:46:42 IST" name="validateHomePage" finished-at="2026-01-19T08:47:06 IST" duration-ms="24224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+      </class> <!-- AutomateWebApp.validateHomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

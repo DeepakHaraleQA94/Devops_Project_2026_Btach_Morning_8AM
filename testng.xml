@@ -5,6 +5,7 @@
     <classes>
       <class name="AutomateWebApp.validateYessPage"/>
       <class name="AutomateWebApp.validateHomePage"/>
+      <class name="AutomateWebApp.ValidateAboutPage"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

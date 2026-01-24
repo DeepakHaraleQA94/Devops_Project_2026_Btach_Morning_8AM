@@ -18,7 +18,7 @@ public class ValidateAboutPage {
 		
 		String title = driver.getTitle();
 		System.out.println(title);
-		
+		System.out.println("Hello World");
 		if(title.equals("About Us | yes")) {
 			System.out.println("page validation done");
 		}else
